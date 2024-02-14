@@ -10,6 +10,11 @@ public class Greeter {
    */
   public Greeter() {
   
+    System.out.println("hello world");
+  }
+
+  public static void main() {
+    System.out.println("hello world");
   }
 
 
